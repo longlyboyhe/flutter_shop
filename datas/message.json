@@ -1,0 +1,30 @@
+{
+  "result": 1,
+  "msg": "获取成功",
+  "data": [
+    {
+      "type": 0,
+      "icon": "images/notice.png",
+      "title": "优惠消息",
+      "subTitle": "Dior2019春季新款限时五折",
+      "time": "10:40",
+      "news": 2
+    },
+    {
+      "type": 1,
+      "icon": "images/clock.png",
+      "title": "系统消息",
+      "subTitle": "系统消息，行业快递延迟等方便消息提示行业快递延迟等方便消息提示",
+      "time": "昨天",
+      "news": 3
+    },
+    {
+      "type": 2,
+      "icon": "images/cart.png",
+      "title": "求购消息",
+      "subTitle": "买家回复了您的求购消息",
+      "time": "2019.02.15",
+      "news": 0
+    }
+  ]
+}

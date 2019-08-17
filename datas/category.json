@@ -1,0 +1,167 @@
+{
+  "result": {
+    "msg": "请求成功",
+    "code": 200,
+    "is_success": true
+  },
+  "data": [
+    {
+      "cat_name": "美妆个护",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1218,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1218|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "男包女包",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1261,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1261|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "男装女装",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1273,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1273|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "男鞋女鞋",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1309,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1309|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "腰带眼镜",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1335,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1335|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "珠宝首饰",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1349,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1349|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "腕表推荐",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1360,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1360|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "母婴童装",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1406,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1406|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "食材酒水",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1417,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1417|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "家居生活",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1439,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1439|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "体育运动",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1464,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1464|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "家电数码",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1478,
+      "icon": null,
+      "is_leaf": false,
+      "conditions": "",
+      "cat_path": "1478|",
+      "sort_order": 1,
+      "is_show": null
+    },
+    {
+      "cat_name": "",
+      "parent_id": 0,
+      "image_url": "",
+      "cat_id": 1490,
+      "icon": null,
+      "is_leaf": true,
+      "conditions": "",
+      "cat_path": "1490|",
+      "sort_order": 1,
+      "is_show": null
+    }
+  ],
+  "success": true,
+  "version": "v1"
+}

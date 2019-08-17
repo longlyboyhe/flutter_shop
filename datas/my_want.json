@@ -1,0 +1,746 @@
+{
+  "result": 1,
+  "msg": "获取成功",
+  "data": [
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "img": "/upload/img/store/dad2c5abdebe40fd926f643cf95330d0/1535116083889.jpg",
+      "price": 1069.00,
+      "name": "GCDS LOGO图案黑色V领长袖上衣 CC94U020051-BLACK",
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "GCDS 中性粉色印花棉质T恤 CC94U020030-PINK",
+      "img": "/upload/img/store/dad2c5abdebe40fd926f643cf95330d0/1535117389363.jpg",
+      "price": 709.00,
+      "originalSize": 2,
+      "timelimit": 3,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "Balenciaga 巴黎世家 男士黑色小牛皮混纺休闲鞋 533882-W09O1-1000",
+      "img": "/upload/img/store/dad2c5ab/20181018/533882-W09O1-1000/1539846619565.jpg",
+      "price": 9150.00,
+      "originalSize": 1,
+      "timelimit": 3,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "【爆款限时抢购】ALEXANDER MCQUEEN 亚历山大&middot;麦昆 女士白色拼粉色休闲运动鞋 553770-WHGP7-9182",
+      "img": "/upload/img/store/dad2c5ab/20190107/553770-WHGP7-9182/1546850913890.jpg",
+      "price": 2249.00,
+      "originalSize": 2,
+      "timelimit": 3,
+      "attrs": [
+        [
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "QHSS19 Pinko 品高 女士浅灰色小牛皮单肩包斜挎包 1P21AY-Y5EUI67",
+      "img": "/upload/img/store/dad2c5ab/20190116/1P21AY-Y5EUI67/1547621917775.jpg",
+      "price": 1049.00,
+      "originalSize": 2,
+      "timelimit": 3
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "Atelier Park 女士手提包 ATHBG01-11-Purple",
+      "img": "/upload/img/store/dad2c5abdebe40fd926f643cf95330d0/1530091149614.jpg",
+      "price": 489.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "GUCCI 古驰 Dionysus酒神系列米色绒面革女士单肩包 403348-9F2FN-8357",
+      "img": "/upload/img/store/dad2c5abdebe40fd926f643cf95330d0/1530071451039.jpg",
+      "price": 19819.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "GUCCI 古驰 老虎印花高级人造帆布棒球帽 426887-4HB13-2160",
+      "img": "/upload/img/store/dad2c5ab/20181031/426887-4HB13-2160/1540978872072.jpg",
+      "price": 2850.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "Burberry 巴宝莉 男士米白色纯棉百搭长袖风衣外套 3983340",
+      "img": "/upload/img/store/dad2c5ab/20181022/1540202864047.jpg",
+      "price": 12550.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "QH OFF WHITE 女士黑色皮革运动鞋 OWIA112F18B86016-1000",
+      "img": "/upload/img/store/dad2c5ab/20181120/OWIA112F18B86016-1000/1542697602926.jpg",
+      "price": 4950.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "Swarovski 施华洛世奇 女士银色珍珠吊坠项链 5452584",
+      "img": "/upload/img/store/dad2c5ab/20190308/5452584/1552025630738.jpg",
+      "price": 419.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "Swarovski 施华洛世奇 女士多色玫瑰金米老鼠款式手镯 5462360",
+      "img": "/upload/img/store/dad2c5ab/20190308/5462360/1552024384834.jpg",
+      "price": 598.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "QH Fendi 芬迪 女士黑色小牛皮背包 8BZ043-A67V-F13X8",
+      "img": "/upload/img/store/dad2c5ab/20190308/8BZ043-A67V-F13X8/1552016134783.jpg",
+      "price": 14178.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "Swarovski 施华洛世奇 女士可爱飞猪精致萌趣手袋挂饰 5457471",
+      "img": "/upload/img/store/dad2c5ab/20190308/5457471/1552023997666.jpg",
+      "price": 678.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "QHSS19 Fendi 芬迪 女士深蓝色小牛皮单肩包斜挎包 8BT286-A3QX-F15KS",
+      "img": "/upload/img/store/dad2c5ab/20190221/8BT286-A3QX-F15KS/1550722916747.jpg",
+      "price": 10878.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "QH OFF WHITE 女士黑色皮革运动鞋 OWIA112F18B86016-1000",
+      "img": "/upload/img/store/dad2c5ab/20181120/OWIA112F18B86016-1000/1542697602926.jpg",
+      "price": 4950.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "Burberry 巴宝莉 男士米白色纯棉百搭长袖风衣外套 3983340",
+      "img": "/upload/img/store/dad2c5ab/20181022/1540202864047.jpg",
+      "price": 12550.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "GUCCI 古驰 老虎印花高级人造帆布棒球帽 426887-4HB13-2160",
+      "img": "/upload/img/store/dad2c5ab/20181031/426887-4HB13-2160/1540978872072.jpg",
+      "price": 2850.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "GUCCI 古驰 Dionysus酒神系列米色绒面革女士单肩包 403348-9F2FN-8357",
+      "img": "/upload/img/store/dad2c5abdebe40fd926f643cf95330d0/1530071451039.jpg",
+      "price": 5230.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    },
+    {
+      "number": "88888888888",
+      "brand": "GCDS",
+      "classification": "上衣",
+      "name": "Atelier Park 女士手提包 ATHBG01-11-Purple",
+      "img": "/upload/img/store/dad2c5abdebe40fd926f643cf95330d0/1530091149614.jpg",
+      "price": 1550.00,
+      "timelimit": 3,
+      "originalSize": 15,
+      "attrs": [
+        [
+          {
+            "name": "颜色",
+            "value": "黑色"
+          },
+          {
+            "name": "尺码",
+            "value": "M"
+          },
+          {
+            "name": "数量",
+            "value": "1"
+          }
+        ],
+        [
+          {
+            "name": "颜色",
+            "value": "粉色"
+          },
+          {
+            "name": "尺码",
+            "value": "S"
+          },
+          {
+            "name": "数量",
+            "value": "2"
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "result": {
+    "msg": "请求成功",
+    "code": 200,
+    "is_success": true
+  },
+  "data": {
+    "item_skus": null,
+    "product_detail": "<p style=\"text-align: center;\"><img src=\"http://image.winshine.store/detailPic/9//1565430863996.jpg\" style=\"width:null;height:null;\"><br></p>\n  <p style=\"text-align: center;\"><img src=\"http://image.winshine.store/detailPic/9//1565430864252.jpg\" style=\"width:null;height:null;\"><br></p>\n  <p style=\"text-align: center;\"><img src=\"http://image.winshine.store/detailPic/9//1565430864554.jpg\" style=\"width:null;height:null;\"><br></p>",
+    "discount": "8.4",
+    "image_urls": {
+      "1": "http://image.winshine.store/mainPic/9//1565430903595.jpg",
+      "2": "http://image.winshine.store/mainPic/9//1565430903620.jpg",
+      "3": "http://image.winshine.store/mainPic/9//1565430903644.jpg",
+      "4": "http://image.winshine.store/mainPic/9//1565430903669.jpg",
+      "5": "http://image.winshine.store/mainPic/9//1565430903692.jpg"
+    },
+    "type": 1,
+    "property_map": {
+      "产地": "中国",
+      "适用性别": "男性",
+      "主材质": "棉",
+      "上市年份季节": "19年春夏",
+      "厚度": "常规",
+      "领型": "圆领",
+      "衣门襟": "拉链",
+      "袖长": "长袖",
+      "衣长": "常规",
+      "版型": "常规"
+    },
+    "specs": [
+      {
+        "spec_values": [
+          {
+            "vid": 7316,
+            "value": "红色系"
+          }
+        ],
+        "is_affect_img": 1,
+        "name": "颜色",
+        "id": 63
+      },
+      {
+        "spec_values": [
+          {
+            "vid": 174,
+            "value": "L"
+          },
+          {
+            "vid": 208,
+            "value": "M"
+          },
+          {
+            "vid": 207,
+            "value": "S"
+          },
+          {
+            "vid": 175,
+            "value": "XL"
+          },
+          {
+            "vid": 212,
+            "value": "XS"
+          },
+          {
+            "vid": 209,
+            "value": "XXL"
+          }
+        ],
+        "is_affect_img": 0,
+        "name": "服装尺码",
+        "id": 64
+      }
+    ],
+    "video_url": null,
+    "price": 509,
+    "lable": null,
+    "id": 5221336,
+    "spu_id": 5221336,
+    "brand": {
+      "en_brand_name": "adidas",
+      "brand_name": "阿迪达斯",
+      "brand_logo": null,
+      "brand_id": 1384
+    },
+    "vendor_type": 1,
+    "quantity": null,
+    "inventory_list": null,
+    "sku_spec": [
+      {
+        "spec_value_id": 7316,
+        "is_affect_img": 1,
+        "spec_id": 63,
+        "product_id": null,
+        "name": "颜色",
+        "value": "红色系"
+      },
+      {
+        "spec_value_id": 174,
+        "is_affect_img": 0,
+        "spec_id": 64,
+        "product_id": null,
+        "name": "服装尺码",
+        "value": "L"
+      }
+    ],
+    "level": "N",
+    "channel_price": null,
+    "spu_calqty_num": null,
+    "product_num": "EA3524",
+    "area_type": 0,
+    "attrs": null,
+    "min_price": 509,
+    "img_url": null,
+    "name": "阿迪达斯adidasNEO男19春季新款运动服休闲透气梭织连帽防风夹克外套服装EA3524",
+    "market_price": 599,
+    "goods_source": null,
+    "category": {
+      "category_name": "男士运动夹克/外套",
+      "category_id": 1305,
+      "cate_ids": null
+    },
+    "sku_path": [
+      {
+        "inventory_list": [
+          {
+            "area": "中国大陆",
+            "vendor_code": "10799",
+            "product_id": 5218655,
+            "vendor_id": 9,
+            "vendor_name": "上海寺库电子商务有限公司",
+            "sale_price": 509,
+            "sell_stock": 11,
+            "vendor_type": 1
+          }
+        ],
+        "spe_path": "63:7316;64:175",
+        "img_list": [
+          "http://image.winshine.store/mainPic/9//1565430903595.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903620.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903644.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903669.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903692.jpg"
+        ],
+        "sku_id": 5218655,
+        "sell_status": 1
+      },
+      {
+        "inventory_list": [
+          {
+            "area": "中国大陆",
+            "vendor_code": "10799",
+            "product_id": 5221406,
+            "vendor_id": 9,
+            "vendor_name": "上海寺库电子商务有限公司",
+            "sale_price": 509,
+            "sell_stock": 7,
+            "vendor_type": 1
+          }
+        ],
+        "spe_path": "63:7316;64:174",
+        "img_list": [
+          "http://image.winshine.store/mainPic/9//1565430903595.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903620.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903644.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903669.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903692.jpg"
+        ],
+        "sku_id": 5221406,
+        "sell_status": 1
+      },
+      {
+        "inventory_list": [
+          {
+            "area": "中国大陆",
+            "vendor_code": "10799",
+            "product_id": 5221357,
+            "vendor_id": 9,
+            "vendor_name": "上海寺库电子商务有限公司",
+            "sale_price": 509,
+            "sell_stock": 11,
+            "vendor_type": 1
+          }
+        ],
+        "spe_path": "63:7316;64:208",
+        "img_list": [
+          "http://image.winshine.store/mainPic/9//1565430903595.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903620.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903644.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903669.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903692.jpg"
+        ],
+        "sku_id": 5221357,
+        "sell_status": 1
+      },
+      {
+        "inventory_list": [
+          {
+            "area": "中国大陆",
+            "vendor_code": "10799",
+            "product_id": 5218634,
+            "vendor_id": 9,
+            "vendor_name": "上海寺库电子商务有限公司",
+            "sale_price": 509,
+            "sell_stock": 11,
+            "vendor_type": 1
+          }
+        ],
+        "spe_path": "63:7316;64:209",
+        "img_list": [
+          "http://image.winshine.store/mainPic/9//1565430903595.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903620.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903644.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903669.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903692.jpg"
+        ],
+        "sku_id": 5218634,
+        "sell_status": 1
+      },
+      {
+        "inventory_list": [
+          {
+            "area": "中国大陆",
+            "vendor_code": "10799",
+            "product_id": 5221336,
+            "vendor_id": 9,
+            "vendor_name": "上海寺库电子商务有限公司",
+            "sale_price": 509,
+            "sell_stock": 11,
+            "vendor_type": 1
+          }
+        ],
+        "spe_path": "63:7316;64:207",
+        "img_list": [
+          "http://image.winshine.store/mainPic/9//1565430903595.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903620.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903644.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903669.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903692.jpg"
+        ],
+        "sku_id": 5221336,
+        "sell_status": 1
+      },
+      {
+        "inventory_list": [
+          {
+            "area": "中国大陆",
+            "vendor_code": "10799",
+            "product_id": 5219208,
+            "vendor_id": 9,
+            "vendor_name": "上海寺库电子商务有限公司",
+            "sale_price": 509,
+            "sell_stock": 8,
+            "vendor_type": 1
+          }
+        ],
+        "spe_path": "63:7316;64:212",
+        "img_list": [
+          "http://image.winshine.store/mainPic/9//1565430903595.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903620.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903644.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903669.jpg",
+          "http://image.winshine.store/mainPic/9//1565430903692.jpg"
+        ],
+        "sku_id": 5219208,
+        "sell_status": 1
+      }
+    ],
+    "status": null
+  },
+  "success": true,
+  "version": "1.0.0"
+}
